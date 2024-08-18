@@ -7,3 +7,5 @@ client/eslint.config.js
 client/vite.config.js
 
 client/public
+
+server/.env
