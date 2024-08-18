@@ -1,0 +1,9 @@
+client/node_modules
+
+server/node_modules
+
+client/eslint.config.js
+
+client/vite.config.js
+
+client/public
